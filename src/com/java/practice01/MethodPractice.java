@@ -3,6 +3,7 @@ package com.java.practice01;
 import java.util.Scanner;
 
 ////Write a program to print a given number that is positive, negative or zero
+
 public class MethodPractice {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
