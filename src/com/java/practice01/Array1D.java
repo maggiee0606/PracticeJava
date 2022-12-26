@@ -4,7 +4,7 @@ public class Array1D {
     public static void main(String[] args) {
         int data [] = {1,2,3,4,5};
         //or
-        int data1 [] = new int [5]; // 0
+        int data1 [] = new int [5]; // answer is 0
 
         System.out.println(data.length);
 
